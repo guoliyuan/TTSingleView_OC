@@ -19,6 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 //    self.view.backgroundColor = [UIColor redColor];
+    // hai hai hai
     
     UIImageView *imagView = [[UIImageView alloc] initWithFrame:self.view.frame];
     imagView.image = [UIImage imageNamed:@"1710241958510869579.jpg"];
